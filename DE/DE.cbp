@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DE" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../Benchmarks.cpp" />
+		<Unit filename="../Benchmarks.h" />
+		<Unit filename="../F1.cpp" />
+		<Unit filename="../F1.h" />
+		<Unit filename="../F10.cpp" />
+		<Unit filename="../F10.h" />
+		<Unit filename="../F11.cpp" />
+		<Unit filename="../F11.h" />
+		<Unit filename="../F12.cpp" />
+		<Unit filename="../F12.h" />
+		<Unit filename="../F13.cpp" />
+		<Unit filename="../F13.h" />
+		<Unit filename="../F14.cpp" />
+		<Unit filename="../F14.h" />
+		<Unit filename="../F15.cpp" />
+		<Unit filename="../F15.h" />
+		<Unit filename="../F2.cpp" />
+		<Unit filename="../F2.h" />
+		<Unit filename="../F3.cpp" />
+		<Unit filename="../F3.h" />
+		<Unit filename="../F4.cpp" />
+		<Unit filename="../F4.h" />
+		<Unit filename="../F5.cpp" />
+		<Unit filename="../F5.h" />
+		<Unit filename="../F6.cpp" />
+		<Unit filename="../F6.h" />
+		<Unit filename="../F7.cpp" />
+		<Unit filename="../F7.h" />
+		<Unit filename="../F8.cpp" />
+		<Unit filename="../F8.h" />
+		<Unit filename="../F9.cpp" />
+		<Unit filename="../F9.h" />
+		<Unit filename="../Header.h" />
+		<Unit filename="../Makefile" />
+		<Unit filename="../README" />
+		<Unit filename="../demo.cpp" />
+		<Unit filename="../include/DE.h" />
+		<Unit filename="../include/DE_1997_F1.h" />
+		<Unit filename="../include/DE_1997_functions.h" />
+		<Unit filename="../include/ReadConfig.h" />
+		<Unit filename="../include/SaDE.h" />
+		<Unit filename="../include/benchmark_1999_F1.h" />
+		<Unit filename="../include/benchmark_1999_F2.h" />
+		<Unit filename="../include/benchmark_1999_F3.h" />
+		<Unit filename="../include/benchmark_1999_F4.h" />
+		<Unit filename="../include/benchmark_1999_F5.h" />
+		<Unit filename="../include/benchmark_1999_F6.h" />
+		<Unit filename="../include/benchmark_1999_F7.h" />
+		<Unit filename="../include/benchmark_1999_F8.h" />
+		<Unit filename="../include/benchmark_1999_F9.h" />
+		<Unit filename="../include/publicFunction.h" />
+		<Unit filename="../include/strategies.h" />
+		<Unit filename="../src/DE.cpp" />
+		<Unit filename="../src/DE_1997_F1.cpp" />
+		<Unit filename="../src/DE_1997_functions.cpp" />
+		<Unit filename="../src/ReadConfig.cpp" />
+		<Unit filename="../src/SaDE.cpp" />
+		<Unit filename="../src/benchmark_1999_F1.cpp" />
+		<Unit filename="../src/benchmark_1999_F2.cpp" />
+		<Unit filename="../src/benchmark_1999_F3.cpp" />
+		<Unit filename="../src/benchmark_1999_F4.cpp" />
+		<Unit filename="../src/benchmark_1999_F5.cpp" />
+		<Unit filename="../src/benchmark_1999_F6.cpp" />
+		<Unit filename="../src/benchmark_1999_F7.cpp" />
+		<Unit filename="../src/benchmark_1999_F8.cpp" />
+		<Unit filename="../src/benchmark_1999_F9.cpp" />
+		<Unit filename="../src/publicFunction.cpp" />
+		<Unit filename="../src/strategies.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

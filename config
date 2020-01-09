@@ -1,0 +1,230 @@
+#F16
+np = 100
+dimension = 30
+generation = 1500
+minX = -100
+maxX = 100
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F17
+np = 100
+dimension = 30
+generation = 2000
+minX = -10
+maxX = 10
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F18
+np = 100
+dimension = 30
+generation = 5000
+minX = -100
+maxX = 100
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F19
+np = 100
+dimension = 30
+generation = 5000
+minX = -100
+maxX = 100
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F20
+np = 100
+dimension = 30
+generation = 20000
+minX = -30
+maxX = 30
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F21
+np = 100
+dimension = 30
+generation = 1500
+minX = -100
+maxX = 100
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F22
+np = 100
+dimension = 30
+generation = 3000
+minX = -1.28
+maxX = 1.28
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F23
+np = 100
+dimension = 30
+generation = 9000
+minX = -500
+maxX = 500
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F24
+np = 100
+dimension = 30
+generation = 5000
+minX = -5.12
+maxX = 5.12
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F25
+np = 100
+dimension = 30
+generation = 1500
+minX = -32
+maxX = 32
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F26
+np = 100
+dimension = 30
+generation = 2000
+minX = -600
+maxX = 600
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F27
+np = 100
+dimension = 30
+generation = 1500
+minX = -50
+maxX = 50
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F28
+np = 100
+dimension = 30
+generation = 1500
+minX = -50
+maxX = 50
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F29
+np = 100
+dimension = 2
+generation = 100
+minX = -65.536
+maxX = 65.536
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F30
+np = 100
+dimension = 4
+generation = 4000
+minX = -5
+maxX = 5
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F31
+np = 100
+dimension = 2
+generation = 100
+minX = -5
+maxX = 5
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F32
+np = 100
+dimension = 2
+generation = 100
+minX = [-5,0]
+maxX = [10,15]
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F33
+np = 100
+dimension = 2
+generation = 100
+minX = -2
+maxX = 2
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F34
+np = 100
+dimension = 4
+generation = 100
+minX = 0
+maxX = 10
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F35
+np = 100
+dimension = 4
+generation = 100
+minX = 0
+maxX = 10
+##DE
+F = 0.5
+CR = 0.9
+@
+
+#F36
+np = 100
+dimension = 4
+generation = 100
+minX = 0
+maxX = 10
+##DE
+F = 0.5
+CR = 0.9
+@
